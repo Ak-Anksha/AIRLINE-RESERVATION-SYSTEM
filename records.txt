@@ -1,0 +1,10 @@
+________XYZ Airlines________
+__________Ticket___________
+___________________________
+Customer ID: 1
+Customer Name: Akanksha
+Customer Gender: F
+	Description
+
+Destination		Europe
+Flight cost: 		36000
